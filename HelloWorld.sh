@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'Hello, World!'
+echo $'\e[1mHello, World!\e[0m'
